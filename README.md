@@ -19,11 +19,6 @@ API REST para Gestão de Gastos
   Os gastos, serão informados atraves do protoloco JSON, seguindo padrão:
     { "descricao": "alfanumerico", "valor": double americano, "codigousuario": numerico, "data": Data dem formato UTC }.
     
-* Funcionalidade: Integração de gastos por cartão
-  Apenas sistemas credenciados poderão incluir novos gastos
-  É esperado um volume de 100.000 inclusões por segundo
-  Os gastos, serão informados atraves do protoloco JSON, seguindo padrão:
-    { "descricao": "alfanumerico", "valor": double americano, "codigousuario": numerico, "data": Data dem formato UTC }
 
 * Funcionalidade: Filtro de gastos
   Dado que acesso como um cliente autenticado
