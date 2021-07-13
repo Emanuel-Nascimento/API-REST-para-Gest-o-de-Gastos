@@ -10,10 +10,10 @@ O que será utilizado?
 * SOAPUI para testes de carga.
 * Armazenamento de dados (REDIS, Cassandra, Solr/Lucene).
 * Uso do git.
-* Criptografia de comunicação, com troca de chaves.
+* Criptografia de comunicação, com troca de chaves. (Noise Protocol Framework.)
 * CQRS.
 * Docker File + Docker Compose.
-* Noise Protocol Framework.
+
 
 * Funcionalidade: Integração de gastos por cartão
   Apenas sistemas credenciados poderão incluir novos gastos
