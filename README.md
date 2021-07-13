@@ -1,6 +1,7 @@
 # API-REST-para-Gest-o-de-Gastos
 API REST para Gestão de Gastos
 
+O que será utilizado?
 
 * RESTFul.
 * DDD.
@@ -12,6 +13,7 @@ API REST para Gestão de Gastos
 * Criptografia de comunicação, com troca de chaves.
 * CQRS.
 * Docker File + Docker Compose.
+* Noise Protocol Framework.
 
 * Funcionalidade: Integração de gastos por cartão
   Apenas sistemas credenciados poderão incluir novos gastos
