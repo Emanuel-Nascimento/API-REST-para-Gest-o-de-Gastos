@@ -6,7 +6,6 @@ What will be used?
 * RESTFul.
 * DDD.
 * Microservices.
-* Unit tests - JUnit + Mockito.
 * SOAPUI for load testing.
 * Data storage (REDIS, MongoDb).
 * Using git.
