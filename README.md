@@ -8,7 +8,7 @@ What will be used?
 * Microservices.
 * Unit tests - JUnit + Mockito.
 * SOAPUI for load testing.
-* Data storage (REDIS, Cassandra, Solr/Lucene).
+* Data storage (REDIS, MongoDb).
 * Using git.
 * Communication encryption, with key exchange. (Noise Protocol Framework.)
 * CQRS.
