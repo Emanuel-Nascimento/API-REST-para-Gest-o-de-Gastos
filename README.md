@@ -11,6 +11,7 @@ What will be used?
 * Using git.
 * Communication encryption, with key exchange. (Noise Protocol Framework.)
 * CQRS.
+* RabbitMQ.
 * Docker File + Docker Compose.
 
 
